@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: David Ruiz
+Curso: Daw1
+Fecha: 24/03/2025
+Ejercicio 2
+-->
+<!--Informacion de dos equipos de futbol-->
+<equipos>
+    <equipo>
+        <nombre>Trival Valderas</nombre>
+        <ciudad>Madrid</ciudad>
+        <entrenador>Ruben moreno</entrenador>
+        <jugadores>
+            <jugador posicion="Delantero">
+                <nombre>David Ruiz</nombre>
+                <nacionalidad>Española</nacionalidad>
+            </jugador>
+            <jugador posicion="Portero">
+                <nombre>Eduardo Cuaresma</nombre>
+                <nacionalidad>Francesa</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo>
+        <nombre>Cd Samper Fem</nombre>
+        <ciudad>Madrid</ciudad>
+        <entrenador>Rafael Fernandez</entrenador>
+        <jugadores>
+            <jugador posicion="Defensa">
+                <nombre>Martha Ruiz</nombre>
+                <nacionalidad>Española</nacionalidad>
+            </jugador>
+            <jugador posicion="Medio">
+                <nombre>Maria Gamero</nombre>
+                <nacionalidad>Brasileña</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos>
